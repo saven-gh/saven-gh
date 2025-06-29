@@ -1,4 +1,4 @@
-![myaccount](https://github.com/saven-gh/saven-gh/blob/main/NEW2024.png)
+![myaccount](https://github.com/saven-gh/saven-gh/blob/main/GITHUB2025.png)
 
 # HELLO
 Hi everyone, I'm Ivan. I'm currently unemployed, but maybe in the future I'll get into coding (that is, if I grow the right skills and stop being lazy)
