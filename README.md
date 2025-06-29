@@ -1,7 +1,7 @@
 ![myaccount](https://github.com/saven-gh/saven-gh/blob/main/NEW2024.png)
 
 # HELLO
-I'm Ivan, I currently work (for now) as a sysadmin, maybe in the future I will code something (key “maybe”).
+Hi everyone, I'm Ivan. I'm currently unemployed, but maybe in the future I'll get into coding (that is, if I grow the right skills and stop being lazy)
 
 # ДЛЯ РУССКОГОВОРЯЩИХ
-Всем прив я Иван, на данный момент работаю (пока что) сисадмином (сисинженер), возможно в будущем буду что-то кодить (если конечно у меня руки вырастут откуда надо)
+Всем привет я Иван, на данный момент я пока без работы, возможно в будущем буду что-то кодить (если конечно у меня руки вырастут откуда надо и я не буду лениться)
